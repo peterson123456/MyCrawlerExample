@@ -1,4 +1,4 @@
-package crawler.example.exam;
+package MyExercise;
 
 import com.github.abola.crawler.CrawlerPack;
 import org.jsoup.nodes.Document;
@@ -19,7 +19,7 @@ import org.jsoup.nodes.Element;
  * @author Abola Lee
  *
  */
-public class RealPriceExam_Kaohsiung {
+public class RealPriceExam_Kaohsiung_Ex {
 	public static void main(String[] args) {
 		//http://plvr.land.moi.gov.tw//Download?type=zip&fileName=lvr_landxml.zip
 		String uri = "zip:http://plvr.land.moi.gov.tw"

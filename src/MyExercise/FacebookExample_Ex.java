@@ -1,4 +1,4 @@
-package crawler.example;
+package MyExercise;
 
 import com.github.abola.crawler.CrawlerPack;
 import org.jsoup.nodes.Element;
@@ -16,7 +16,7 @@ import org.jsoup.select.Elements;
  * @author Abola Lee
  *
  */
-public class FacebookExample_peter {
+public class FacebookExample_Ex {
 	
 	public static void main(String[] args) {
 		
